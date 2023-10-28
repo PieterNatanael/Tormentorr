@@ -11,6 +11,12 @@
 		21B6E0332AEBDF0500A5DCA3 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21B6E0322AEBDF0500A5DCA3 /* ContentView.swift */; };
 		21B6E0352AEBDF0600A5DCA3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 21B6E0342AEBDF0600A5DCA3 /* Assets.xcassets */; };
 		21B6E0382AEBDF0600A5DCA3 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 21B6E0372AEBDF0600A5DCA3 /* Preview Assets.xcassets */; };
+		21B6E0442AEBDF6000A5DCA3 /* sound5.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 21B6E03E2AEBDF5F00A5DCA3 /* sound5.mp3 */; };
+		21B6E0452AEBDF6000A5DCA3 /* sound3.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 21B6E03F2AEBDF6000A5DCA3 /* sound3.mp3 */; };
+		21B6E0462AEBDF6000A5DCA3 /* sound2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 21B6E0402AEBDF6000A5DCA3 /* sound2.mp3 */; };
+		21B6E0472AEBDF6000A5DCA3 /* sound6.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 21B6E0412AEBDF6000A5DCA3 /* sound6.mp3 */; };
+		21B6E0482AEBDF6000A5DCA3 /* sound1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 21B6E0422AEBDF6000A5DCA3 /* sound1.mp3 */; };
+		21B6E0492AEBDF6000A5DCA3 /* sound4.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 21B6E0432AEBDF6000A5DCA3 /* sound4.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +25,12 @@
 		21B6E0322AEBDF0500A5DCA3 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		21B6E0342AEBDF0600A5DCA3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		21B6E0372AEBDF0600A5DCA3 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		21B6E03E2AEBDF5F00A5DCA3 /* sound5.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = sound5.mp3; sourceTree = "<group>"; };
+		21B6E03F2AEBDF6000A5DCA3 /* sound3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = sound3.mp3; sourceTree = "<group>"; };
+		21B6E0402AEBDF6000A5DCA3 /* sound2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = sound2.mp3; sourceTree = "<group>"; };
+		21B6E0412AEBDF6000A5DCA3 /* sound6.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = sound6.mp3; sourceTree = "<group>"; };
+		21B6E0422AEBDF6000A5DCA3 /* sound1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = sound1.mp3; sourceTree = "<group>"; };
+		21B6E0432AEBDF6000A5DCA3 /* sound4.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = sound4.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +65,12 @@
 			children = (
 				21B6E0302AEBDF0500A5DCA3 /* TormentorrApp.swift */,
 				21B6E0322AEBDF0500A5DCA3 /* ContentView.swift */,
+				21B6E0422AEBDF6000A5DCA3 /* sound1.mp3 */,
+				21B6E0402AEBDF6000A5DCA3 /* sound2.mp3 */,
+				21B6E03F2AEBDF6000A5DCA3 /* sound3.mp3 */,
+				21B6E0432AEBDF6000A5DCA3 /* sound4.mp3 */,
+				21B6E03E2AEBDF5F00A5DCA3 /* sound5.mp3 */,
+				21B6E0412AEBDF6000A5DCA3 /* sound6.mp3 */,
 				21B6E0342AEBDF0600A5DCA3 /* Assets.xcassets */,
 				21B6E0362AEBDF0600A5DCA3 /* Preview Content */,
 			);
@@ -125,8 +143,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				21B6E0482AEBDF6000A5DCA3 /* sound1.mp3 in Resources */,
+				21B6E0462AEBDF6000A5DCA3 /* sound2.mp3 in Resources */,
+				21B6E0472AEBDF6000A5DCA3 /* sound6.mp3 in Resources */,
+				21B6E0452AEBDF6000A5DCA3 /* sound3.mp3 in Resources */,
 				21B6E0382AEBDF0600A5DCA3 /* Preview Assets.xcassets in Resources */,
+				21B6E0492AEBDF6000A5DCA3 /* sound4.mp3 in Resources */,
 				21B6E0352AEBDF0600A5DCA3 /* Assets.xcassets in Resources */,
+				21B6E0442AEBDF6000A5DCA3 /* sound5.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
