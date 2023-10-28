@@ -41,4 +41,34 @@ Changes to This Privacy Policy:
 Policy Updates: We reserve the right to update and modify this Privacy Policy. Any changes will be posted within the app or on our website.
 Contact Us:
 
-For any questions or concerns regarding this Privacy Policy or our app, please contact us at pieter@b33.biz
+For any questions or concerns regarding this Privacy Policy or our app, please contact us at pieternatanael@icoud.com
+
+
+
+Kebijakan Privasi : 
+
+Kebijakan Privasi untuk Tormentorr
+
+Di Tormentorr, kami berkomitmen untuk menghormati dan melindungi privasi pengguna kami. Kebijakan Privasi ini menjelaskan bagaimana kami mengumpulkan, menggunakan, dan melindungi informasi pribadi di dalam aplikasi kami.
+
+Pengumpulan Informasi dan Penggunaan:
+
+Tidak Ada Informasi Pribadi: Tormentorr tidak mengumpulkan, menyimpan, atau membagikan informasi pribadi dari penggunanya. Kami tidak meminta pengguna untuk memberikan data pribadi untuk menggunakan aplikasi.
+Pengumpulan Data:
+
+Analitik Penggunaan: Kami dapat mengumpulkan data penggunaan anonim semata-mata untuk meningkatkan pengalaman pengguna dan fungsionalitas aplikasi. Data ini digunakan untuk memahami interaksi pengguna dengan aplikasi dan tidak berisi informasi pribadi yang dapat diidentifikasi.
+Berbagi Informasi:
+
+Tidak Ada Berbagi dengan Pihak Ketiga: Kami tidak membagikan data pengguna, baik yang bersifat pribadi maupun anonim, kepada pihak ketiga.
+Langkah-langkah Keamanan:
+
+Keamanan Data: Tormentorr menerapkan langkah-langkah keamanan standar industri untuk melindungi informasi apa pun yang dikumpulkan atau diakses di dalam aplikasi.
+Privasi Anak-anak:
+
+Kepatuhan dengan COPPA: Tormentorr tidak ditujukan untuk anak di bawah usia 13 tahun. Kami tidak sengaja mengumpulkan informasi pribadi dari anak-anak.
+Perubahan dalam Kebijakan Privasi Ini:
+
+Pembaruan Kebijakan: Kami berhak untuk memperbarui dan mengubah Kebijakan Privasi ini. Setiap perubahan akan diposting di dalam aplikasi atau di situs web kami.
+Hubungi Kami:
+
+Untuk pertanyaan atau kekhawatiran seputar Kebijakan Privasi ini atau aplikasi kami, silakan hubungi kami di pieternatanael@icloud.com
